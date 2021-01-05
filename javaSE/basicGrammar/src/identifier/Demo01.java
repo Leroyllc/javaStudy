@@ -11,4 +11,14 @@ public class Demo01 {
 //        String @_a = "444";
 //        String a_$@ = "ddd"
     }
+
+    /**
+     *
+     * @param arg1
+     * @return
+     */
+    public String test (String arg1){
+        System.out.println(arg1);
+        return arg1;
+    }
 }
