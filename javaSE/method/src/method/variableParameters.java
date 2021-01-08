@@ -1,8 +1,8 @@
 package method;
 
-public class variableParameters {
+public class VariableParameters {
     public static void main(String[] args) {
-        variableParameters vp = new variableParameters();
+        VariableParameters vp = new VariableParameters();
         System.out.println(vp.sum(10, 1, 12, 131, 13));
     }
 
